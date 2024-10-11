@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning engineering
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
-- 😄 Pronouns: no
-- ⚡ Fun fact: im a good singer
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 RahilaH/RahilaH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
